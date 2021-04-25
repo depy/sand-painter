@@ -1,0 +1,7 @@
+-cp src
+-lib heaps
+-lib hlsdl
+-D windowSize=640x640
+-D windowTitle=Particles playground
+-hl hello.hl
+-main Main
